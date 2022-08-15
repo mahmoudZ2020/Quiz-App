@@ -1,0 +1,45 @@
+#quiz,#finish,#Correct,#inCorrect
+{
+    display: none;
+    
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* //background-image: linear-gradient(to left, #aa2ff2, #9e45f7, #9354fb, #8861fd, #7e6cfe); */
+background-image: url(../images/Wave-100s-1366px\ \(2\).svg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: right;
+height: 100vh;
+}
+.close{
+    cursor: pointer;
+}
+.text-spec
+{
+    color: #653383
+}
+.bg-spec
+{
+   background-color:  #653383
+}
+button{
+    cursor: pointer;
+}
+.alert
+{
+    display: none;
+}
+.copyrights p {
+    color: #fff;
+    background: rgba(0, 0, 0, 0.822);
+    text-align: center;
+    padding: 8px 40px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.copyrights a {
+    color: #6287c0;
+    text-decoration: none;
+    font-weight: 300;
+}
